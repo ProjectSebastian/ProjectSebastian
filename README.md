@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 Inline-style: 
 ![alt text](<Jostens Yearbook Avenue Layout Pro.png> "Picture of me #1")
 -->
+![alt text][def]
+
+[def]: <Jostens Yearbook Avenue Layout Pro-1.png>
