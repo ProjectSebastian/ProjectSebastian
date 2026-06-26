@@ -11,5 +11,4 @@
 
 ![alt text][def]
 
-[def]: <Jostens Yearbook Avenue Layout Pro-1.png>
-
+[def]:<IMG_3303-1.jpeg>
