@@ -9,9 +9,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I never owned a Console/Pc until 2025
 
-Inline-style: 
-![alt text](<Jostens Yearbook Avenue Layout Pro.png> "Picture of me #1")
--->
 ![alt text][def]
 
 [def]: <Jostens Yearbook Avenue Layout Pro-1.png>
