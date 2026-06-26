@@ -7,7 +7,7 @@
 - 💬 Ask me about what I like to do on my free time
 - 📫 How to reach me: 773-640-4312 or s.hernandez.private@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I never owned a Console/Pc until 2025
+- ⚡ Fun fact: I love going to the Lincoln Park Zoo Lights in Chiago, IL.
 
 ![alt text][def]
 
