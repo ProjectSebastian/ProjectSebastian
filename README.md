@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**ProjectSebastian/ProjectSebastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on exploring Data Science and college applications.
 - 🌱 I’m currently learning the coding language "Python"
 - 👯 I’m looking to collaborate on a new app/project to create profit.
@@ -13,9 +8,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 773-640-4312 or s.hernandez.private@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I never owned a Console/Pc until 2025
+
 Inline-style: 
 ![alt text](<Jostens Yearbook Avenue Layout Pro.png> "Picture of me #1")
 -->
 ![alt text][def]
 
 [def]: <Jostens Yearbook Avenue Layout Pro-1.png>
+
